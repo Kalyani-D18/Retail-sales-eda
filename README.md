@@ -1,12 +1,11 @@
 # Retail Sales - Exploratory Data Analysis
 
-A fresher-level Data Science / Data Analytics project: clean a messy
+Data Science/ Data Analytics project: clean a messy
 retail sales export and explore it with Python and Pandas, producing
 basic statistics and visualizations.
 
 ## Why this project
 
-Complements the [E-Commerce Data Engineering Pipeline](../ecommerce-data-pipeline)
 project by covering the Python-for-data side specifically: Pandas-based
 cleaning, exploratory data analysis, and basic statistics — the core
 skills behind most fresher Data Analyst / Data Engineer screening tests.
@@ -19,9 +18,7 @@ Python - Pandas - NumPy - Matplotlib - Seaborn - Jupyter Notebook
 
 ```
 retail-sales-eda/
-├── data/
-│   └── raw/
-│       └── sales_raw.csv          # generated messy dataset
+── sales_raw.csv          # generated messy dataset
 ├── images/                        # charts exported from the notebook
 ├── generate_sales_data.py         # generates the sample raw dataset
 ├── Retail_Sales_EDA.ipynb         # the analysis notebook
